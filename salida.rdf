@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:bibo="http://purl.org/ontology/bibo/"
+   xmlns:col="http://universidad-ec.edu.ec/resource/column/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85143219221&amp;partnerID=40&amp;md5=d2c658c180fb95c5425cbfa94a4cee90">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
+    <dct:creator rdf:resource="http://universidad-ec.edu.ec/person/57991246300"/>
+    <dct:creator rdf:resource="http://universidad-ec.edu.ec/person/57900309900"/>
+    <dct:creator rdf:resource="http://universidad-ec.edu.ec/person/57991432700"/>
+    <col:Author_full_names>Fernández Andrade, Luis Gabriel (57991246300)</col:Author_full_names>
+    <col:Author_full_names>Falconi Herrera, Robert Alcides (57900309900)</col:Author_full_names>
+    <col:Author_full_names>Alvarado Carrasco, Emily Carolina (57991432700)</col:Author_full_names>
+    <col:Author_s_ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57991246300</col:Author_s_ID>
+    <col:Author_s_ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57900309900</col:Author_s_ID>
+    <col:Author_s_ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57991432700</col:Author_s_ID>
+    <dct:title>POLITICAL POWER THROUGH LAW: CRITICAL REFLECTIONS</dct:title>
+    <dct:title>[PODER POLÍTICO MEDIANTE EL DERECHO: REFLEXIONES CRÍTICAS]</dct:title>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2022</dct:issued>
+    <dct:isPartOf rdf:resource="http://universidad-ec.edu.ec/resource/value/Source_title/Universidad_y_Sociedad"/>
+    <bibo:volume rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</bibo:volume>
+    <bibo:issue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</bibo:issue>
+    <col:Page_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">512</col:Page_start>
+    <col:Page_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">519</col:Page_end>
+    <col:Page_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</col:Page_count>
+    <schema:citationCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</schema:citationCount>
+    <dct:abstract>The present research work seeks to propose a reflective critical discussion about the political reality of Ecuador, since it has gradually transformed the law and its elements into a powerful tool for the purposes of the political sector that holds the political power of a state, because it is common in the news, in the networks and in the classrooms to present the problems that surround Ecuadorian society due to the lack of political will to give them a solution; also the lack of attention and interest that the population gives to this discussion when we should all participate in it, which is why we must initiate this type of debate and critical thinking from universities as centers of thought and science. For these purposes, the work analyzes postulates and ideologies such as the liberal one, as well as other texts that from their studies build a different vision and more attached to the reality of Ecuador. The main objective is to create a work to outline the necessary ideas to create the essential critical positions that start these discussions and that, in turn, this information reaches more people. © 2022, University of Cienfuegos, Carlos Rafael Rodriguez. All rights reserved.</dct:abstract>
+    <dct:subject>critical discussion</dct:subject>
+    <dct:subject>law</dct:subject>
+    <dct:subject>political sector</dct:subject>
+    <dct:subject>state</dct:subject>
+    <col:Document_Type rdf:resource="http://universidad-ec.edu.ec/resource/value/Document_Type/Article"/>
+    <col:Publication_Stage>Final</col:Publication_Stage>
+    <col:Source>Scopus</col:Source>
+    <col:EID>2-s2.0-85143219221</col:EID>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192851907&amp;partnerID=40&amp;md5=e217400bd0ed1c2172ed97787ca0f9f9">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
+    <dct:creator rdf:resource="http://universidad-ec.edu.ec/person/57833551200"/>
+    <dct:creator rdf:resource="http://universidad-ec.edu.ec/person/57351080000"/>
+    <dct:creator rdf:resource="http://universidad-ec.edu.ec/person/59118223600"/>
+    <dct:creator rdf:resource="http://universidad-ec.edu.ec/person/57833239200"/>
+    <col:Author_full_names>Solano Moreno, Alex Fabián (57833551200)</col:Author_full_names>
+    <col:Author_full_names>Chuga Quemac, Rosa Evelyn (57351080000)</col:Author_full_names>
+    <col:Author_full_names>Merizalde Aviles, María Lorena (59118223600)</col:Author_full_names>
+    <col:Author_full_names>Limaico Mina, Josue Ramón (57833239200)</col:Author_full_names>
+    <col:Author_s_ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57833551200</col:Author_s_ID>
+    <col:Author_s_ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57351080000</col:Author_s_ID>
+    <col:Author_s_ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59118223600</col:Author_s_ID>
+    <col:Author_s_ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57833239200</col:Author_s_ID>
+    <dct:title>CONSIDERATIONS ON DIGITAL EMPOWERMENT AND LEGAL PROTECTION FROM A CULTURAL RIGHTS PERSPECTIVE CULTURAL RIGHTS</dct:title>
+    <dct:title>[CONSIDERACIONES SOBRE EMPODERAMIENTO DIGITAL Y TUTELA JUDICIAL DESDE LA PERSPECTIVA DE LOS DERECHOS CULTURALES]</dct:title>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2023</dct:issued>
+    <dct:isPartOf rdf:resource="http://universidad-ec.edu.ec/resource/value/Source_title/Bibliotecas_Anales_de_Investigacion"/>
+    <bibo:volume rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</bibo:volume>
+    <bibo:issue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</bibo:issue>
+    <schema:citationCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</schema:citationCount>
+    <dct:abstract>Objective. Analyze the considerations related to digital empowerment and judicial protection from the perspective of cultural rights in contemporary society. Design/Methodology/Approach. This qualitative study examines the situation of digital empowerment and judicial protection from the perspective of cultural rights in contemporary society. For this, a bibliographic review was carried out whose search included works published in English and Spanish between 2010 and 2023, in the form of articles or books. In the first stage, 53 papers were identified, but after applying inclusion criteria and successive reviews, 37 papers were found to be suitable for inclusion in the research. Results/Discussion. The debate on cultural rights is at a critical point in the 21st century, both because of its recent legal history and because of its great potential for development in the future. Despite having been traditionally overlooked, this topic has aroused considerable interest and presents numerous possibilities in the field of Law. Digital empowerment is considered a means to broaden the exercise of cultural rights, since it facilitates active participation in cultural creation, production, and dissemination. Judicial protection plays a fundamental role in the promotion and safeguarding of cultural rights. Conclusions. Digital empowerment and judicial protection are essential elements to guarantee the protection and promotion of cultural rights in the digital age. Equal access to technology and active participation in the information society are essential for the full exercise of these rights. Judicial systems play a crucial role in ensuring the application of the law and the protection of cultural rights. Continued attention is required to address emerging challenges and strengthen the protection of cultural rights in the digital environment. Originality/Value. It contributes to understanding the intersection between access to digital technologies, citizen participation and the protection of cultural rights in the digital environment, and to examine the role of judicial systems in the promotion and protection of these rights in the digital environment. © 2023 Biblioteca Nacional de Cuba Jose Marti. All rights reserved.</dct:abstract>
+    <dct:subject>Cultural Rights</dct:subject>
+    <dct:subject>Culture</dct:subject>
+    <dct:subject>Digital Empowerment</dct:subject>
+    <dct:subject>Judicial Protection</dct:subject>
+    <dct:subject>Law</dct:subject>
+    <col:Document_Type rdf:resource="http://universidad-ec.edu.ec/resource/value/Document_Type/Article"/>
+    <col:Publication_Stage>Final</col:Publication_Stage>
+    <col:Source>Scopus</col:Source>
+    <col:EID>2-s2.0-85192851907</col:EID>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192785231&amp;partnerID=40&amp;md5=e6cbd91cffe7ad7dcde6d95021aad0ff">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
+    <dct:creator rdf:resource="http://universidad-ec.edu.ec/person/57221993870"/>
+    <dct:creator rdf:resource="http://universidad-ec.edu.ec/person/59119436700"/>
+    <dct:creator rdf:resource="http://universidad-ec.edu.ec/person/57347081000"/>
+    <dct:creator rdf:resource="http://universidad-ec.edu.ec/person/57969452700"/>
+    <col:Author_full_names>Zambrano, Juan Carlos Arandia (57221993870)</col:Author_full_names>
+    <col:Author_full_names>Velasquez, Manuel Ricardo (59119436700)</col:Author_full_names>
+    <col:Author_full_names>Moncayo, Juan Carlos Nevarez (57347081000)</col:Author_full_names>
+    <col:Author_full_names>del pozo Carrasco, Jorge Gabriel (57969452700)</col:Author_full_names>
+    <col:Author_s_ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57221993870</col:Author_s_ID>
+    <col:Author_s_ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59119436700</col:Author_s_ID>
+    <col:Author_s_ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57347081000</col:Author_s_ID>
+    <col:Author_s_ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57969452700</col:Author_s_ID>
+    <dct:title>GUIDELINES FOR THE MANAGEMENT OF A LIBRARY SPECIALIZED IN LEGAL SCIENCES</dct:title>
+    <dct:title>[PAUTAS PARA LA GESTIÓN EN UNA BIBLIOTECA ESPECIALIZADA EN CIENCIAS JURÍDICAS]</dct:title>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2023</dct:issued>
+    <dct:isPartOf rdf:resource="http://universidad-ec.edu.ec/resource/value/Source_title/Bibliotecas_Anales_de_Investigacion"/>
+    <bibo:volume rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</bibo:volume>
+    <bibo:issue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</bibo:issue>
+    <schema:citationCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</schema:citationCount>
+    <dct:abstract>Legal documentation is a valuable asset for any organization. Therefore, research on the guidelines for management in a library specialized in Legal Sciences in Ecuador is relevant due to its importance, specialized information for lawyers, judges, law students and other people interested in legal issues, where there is efficient management for ensure that users can access the information they need in a timely and efficient manner. The objective of this research is to investigate the recommended guidelines for the management of a library specialized in Legal Sciences in Ecuador. For this, an exhaustive review of the existing literature on knowledge management in libraries specialized in Legal Sciences in Ecuador was carried out. The result revealed that most of the studies are aimed at university libraries, being the guiding documents of the International Federation of Library Associations and Institutions (IFLA) the most illustrious for the development of the proposed objective. The conclusions showed that through the typologies of Government Libraries, a specialized library in Legal Sciences in Ecuador can be managed in Ecuador. © 2023 Biblioteca Nacional de Cuba Jose Marti. All rights reserved.</dct:abstract>
+    <dct:subject>communication technologies (ICT) in libraries</dct:subject>
+    <dct:subject>Ecuador</dct:subject>
+    <dct:subject>Information</dct:subject>
+    <dct:subject>Legal collection</dct:subject>
+    <dct:subject>Legal Sciences</dct:subject>
+    <dct:subject>Library management</dct:subject>
+    <dct:subject>Library services</dct:subject>
+    <dct:subject>Library users</dct:subject>
+    <dct:subject>Specialized library</dct:subject>
+    <col:Document_Type rdf:resource="http://universidad-ec.edu.ec/resource/value/Document_Type/Article"/>
+    <col:Publication_Stage>Final</col:Publication_Stage>
+    <col:Source>Scopus</col:Source>
+    <col:EID>2-s2.0-85192785231</col:EID>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192687408&amp;partnerID=40&amp;md5=7591b2a389a4776212beb611434758fe">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
+    <dct:creator rdf:resource="http://universidad-ec.edu.ec/person/57900691300"/>
+    <dct:creator rdf:resource="http://universidad-ec.edu.ec/person/57222256750"/>
+    <dct:creator rdf:resource="http://universidad-ec.edu.ec/person/58002164700"/>
+    <dct:creator rdf:resource="http://universidad-ec.edu.ec/person/57221976123"/>
+    <col:Author_full_names>Rey Siquilanda, Cristoval Fernando (57900691300)</col:Author_full_names>
+    <col:Author_full_names>Cruz Piza, Iyo Alexis (57222256750)</col:Author_full_names>
+    <col:Author_full_names>Garcés Córdova, Felipe Alejandro (58002164700)</col:Author_full_names>
+    <col:Author_full_names>Velastegui Cordova, Miguel Eduardo (57221976123)</col:Author_full_names>
+    <col:Author_s_ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57900691300</col:Author_s_ID>
+    <col:Author_s_ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57222256750</col:Author_s_ID>
+    <col:Author_s_ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">58002164700</col:Author_s_ID>
+    <col:Author_s_ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57221976123</col:Author_s_ID>
+    <dct:title>RANDOM STUDY OF THE BEHAVIOR OF SCIENTIFIC LEGAL SCIENCE JOURNALS IN GOOGLE SCHOLAR</dct:title>
+    <dct:title>[ESTUDIO ALEATORIO DEL COMPORTAMIENTO DE REVISTAS CIENTÍFICAS DE CIENCIAS JURÍDICAS EN GOOGLE ACADÉMICO]</dct:title>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2023</dct:issued>
+    <dct:isPartOf rdf:resource="http://universidad-ec.edu.ec/resource/value/Source_title/Bibliotecas_Anales_de_Investigacion"/>
+    <bibo:volume rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</bibo:volume>
+    <bibo:issue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</bibo:issue>
+    <schema:citationCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</schema:citationCount>
+    <dct:abstract>A random analysis of the behavior of the production and visibility of scientific journals on legal sciences is presented, during the period between 2018 and 2022, based on a descriptive and cross-sectional study, using Google. Production variables were analyzed, by journals, authors and affiliations, as well as the keyword network. A decrease was obtained, with a negative average annual growth rate of -3.57%, with a null coefficient of determination. Indicators are assessed to follow up on this preliminary study in the legal sciences that serve as a tool to evaluate the editorial quality and visibility of the journals in this subcategory. © 2023 Biblioteca Nacional de Cuba Jose Marti. All rights reserved.</dct:abstract>
+    <dct:subject>Academic google</dct:subject>
+    <dct:subject>behavior</dct:subject>
+    <dct:subject>journals</dct:subject>
+    <dct:subject>legal sciences</dct:subject>
+    <col:Document_Type rdf:resource="http://universidad-ec.edu.ec/resource/value/Document_Type/Article"/>
+    <col:Publication_Stage>Final</col:Publication_Stage>
+    <col:Source>Scopus</col:Source>
+    <col:EID>2-s2.0-85192687408</col:EID>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85217735164&amp;partnerID=40&amp;md5=2ffb4fc69b01e68dd135cd92d489fbec">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
+    <dct:creator rdf:resource="http://universidad-ec.edu.ec/person/58028401100"/>
+    <dct:creator rdf:resource="http://universidad-ec.edu.ec/person/57834325900"/>
+    <dct:creator rdf:resource="http://universidad-ec.edu.ec/person/57222256750"/>
+    <dct:creator rdf:resource="http://universidad-ec.edu.ec/person/57901499800"/>
+    <col:Author_full_names>Cellán Palacios, Jessica Jasmin (58028401100)</col:Author_full_names>
+    <col:Author_full_names>Santillan Andrade, Julián Rodolfo (57834325900)</col:Author_full_names>
+    <col:Author_full_names>Cruz Piza, Iyo Alexis (57222256750)</col:Author_full_names>
+    <col:Author_full_names>Villacres Duche, Oscar Fabian (57901499800)</col:Author_full_names>
+    <col:Author_s_ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">58028401100</col:Author_s_ID>
+    <col:Author_s_ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57834325900</col:Author_s_ID>
+    <col:Author_s_ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57222256750</col:Author_s_ID>
+    <col:Author_s_ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57901499800</col:Author_s_ID>
+    <dct:title>THE RIGHT TO INFORMATION IN ECUADOR IN LIGHT OF NEW COMMUNICATION PARADIGMS. A NARRATIVE REVIEW</dct:title>
+    <dct:title>[EL DERECHO A LA INFORMACIÓN EN ECUADOR A LUZ DE LOS NUEVOS PARADIGMAS DE LA COMUNICACIÓN. UNA REVISIÓN NARRATIVA]</dct:title>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2024</dct:issued>
+    <dct:isPartOf rdf:resource="http://universidad-ec.edu.ec/resource/value/Source_title/Bibliotecas_Anales_de_Investigacion"/>
+    <bibo:volume rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</bibo:volume>
+    <bibo:issue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</bibo:issue>
+    <col:Page_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">130</col:Page_start>
+    <col:Page_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">144</col:Page_end>
+    <col:Page_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</col:Page_count>
+    <schema:citationCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</schema:citationCount>
+    <dct:abstract>Objective: To analyze how the new communication paradigms impact the guarantee and exercise of the right to information in Ecuador, in light of current legislation and its applicability in the information society era. Design/Methodology/Approach: Narrative review of studies on the topic obtained from national and international databases, using keywords such as “right to information in Ecuador” and “new communication paradigms in Ecuador”. Critical analysis of legislation and case studies identifying strengths and weaknesses. Results/Discussion: LOTIAP is the main legal framework, but requires better implementation. Websites function well but lack updating and information. Strengthening government transparency and fostering a proactive culture is needed. Regulations aligned to digital changes are required. Participation mechanisms face challenges and participation tends to be more consultative. Conclusions: Digital technologies can articulate traditional with virtual structures. Information management is key for decision making. Challenges remain to guarantee the right to information and transparency. Communication plays a cross-cutting role in different areas such as health, politics and citizen use of networks. Originality/Value: It provides an integral vision of the topic through analysis of legislation, case studies and multi-categorical perspectives drawn from diverse research, determining the importance of guaranteeing the right to information according to new digital paradigms. © 2024 Biblioteca Nacional de Cuba Jose Marti. All rights reserved.</dct:abstract>
+    <dct:subject>information</dct:subject>
+    <dct:subject>Information management</dct:subject>
+    <dct:subject>Information society</dct:subject>
+    <dct:subject>Legislation in Ecuador</dct:subject>
+    <dct:subject>New communication paradigms in Ecuador</dct:subject>
+    <dct:subject>Right</dct:subject>
+    <dct:subject>Transparency</dct:subject>
+    <col:Document_Type rdf:resource="http://universidad-ec.edu.ec/resource/value/Document_Type/Review"/>
+    <col:Publication_Stage>Final</col:Publication_Stage>
+    <col:Source>Scopus</col:Source>
+    <col:EID>2-s2.0-85217735164</col:EID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://universidad-ec.edu.ec/resource/value/Source_title/Bibliotecas_Anales_de_Investigacion">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="en">Bibliotecas, Anales de Investigacion</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://universidad-ec.edu.ec/resource/column/Source_title"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://universidad-ec.edu.ec/person/59118223600">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name xml:lang="en">Merizalde Aviles M.L.</foaf:name>
+    <schema:identifier xml:lang="en">59118223600</schema:identifier>
+    <rdfs:label xml:lang="en">Merizalde_Aviles_M_L</rdfs:label>
+    <schema:author rdf:resource="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192851907&amp;partnerID=40&amp;md5=e217400bd0ed1c2172ed97787ca0f9f9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://universidad-ec.edu.ec/person/57221983860">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name xml:lang="en">Maldonado Cando J.L.</foaf:name>
+    <schema:identifier xml:lang="en">57221983860</schema:identifier>
+    <rdfs:label xml:lang="en">Maldonado_Cando_J_L</rdfs:label>
+    <schema:author rdf:resource="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85143215898&amp;partnerID=40&amp;md5=133d1c4cbdb14507c61694c458fec0b3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://universidad-ec.edu.ec/person/57900309900">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name xml:lang="en">Falconi Herrera R.A.</foaf:name>
+    <schema:identifier xml:lang="en">57900309900</schema:identifier>
+    <rdfs:label xml:lang="en">Falconi_Herrera_R_A</rdfs:label>
+    <schema:author rdf:resource="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85143219221&amp;partnerID=40&amp;md5=d2c658c180fb95c5425cbfa94a4cee90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://universidad-ec.edu.ec/resource/value/Document_Type/Article">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="en">Article</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://universidad-ec.edu.ec/resource/column/Document_Type"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://universidad-ec.edu.ec/person/57222256750">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name xml:lang="en">Cruz Piza I.A.</foaf:name>
+    <schema:identifier xml:lang="en">57222256750</schema:identifier>
+    <rdfs:label xml:lang="en">Cruz_Piza_I_A</rdfs:label>
+    <schema:author rdf:resource="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192687408&amp;partnerID=40&amp;md5=7591b2a389a4776212beb611434758fe"/>
+    <schema:author rdf:resource="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85217735164&amp;partnerID=40&amp;md5=2ffb4fc69b01e68dd135cd92d489fbec"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://universidad-ec.edu.ec/person/57834325900">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name xml:lang="en">Andrade J.R.S.</foaf:name>
+    <foaf:name xml:lang="en">Santillan Andrade J.R.</foaf:name>
+    <schema:identifier xml:lang="en">57834325900</schema:identifier>
+    <rdfs:label xml:lang="en">Andrade_J_R_S</rdfs:label>
+    <rdfs:label xml:lang="en">Santillan_Andrade_J_R</rdfs:label>
+    <schema:author rdf:resource="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192726020&amp;partnerID=40&amp;md5=4194ff40caa17a3e45ab55c6b2a11f6a"/>
+    <schema:author rdf:resource="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85217735164&amp;partnerID=40&amp;md5=2ffb4fc69b01e68dd135cd92d489fbec"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://universidad-ec.edu.ec/person/58028401100">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name xml:lang="en">Palacios J.J.C.</foaf:name>
+    <foaf:name xml:lang="en">Cellán Palacios J.J.</foaf:name>
+    <schema:identifier xml:lang="en">58028401100</schema:identifier>
+    <rdfs:label xml:lang="en">Palacios_J_J_C</rdfs:label>
+    <rdfs:label xml:lang="en">Cellan_Palacios_J_J</rdfs:label>
+    <schema:author rdf:resource="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192726020&amp;partnerID=40&amp;md5=4194ff40caa17a3e45ab55c6b2a11f6a"/>
+    <schema:author rdf:resource="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85217735164&amp;partnerID=40&amp;md5=2ffb4fc69b01e68dd135cd92d489fbec"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85143215898&amp;partnerID=40&amp;md5=133d1c4cbdb14507c61694c458fec0b3">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
+    <dct:creator rdf:resource="http://universidad-ec.edu.ec/person/57221983860"/>
+    <dct:creator rdf:resource="http://universidad-ec.edu.ec/person/57990876000"/>
+    <dct:creator rdf:resource="http://universidad-ec.edu.ec/person/57222626724"/>
+    <col:Author_full_names>Maldonado Cando, José Luis (57221983860)</col:Author_full_names>
+    <col:Author_full_names>Bustamante Vera, Andrea Alejandra (57990876000)</col:Author_full_names>
+    <col:Author_full_names>Cabrera Grand, Johanna Roció (57222626724)</col:Author_full_names>
+    <col:Author_s_ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57221983860</col:Author_s_ID>
+    <col:Author_s_ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57990876000</col:Author_s_ID>
+    <col:Author_s_ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57222626724</col:Author_s_ID>
+    <dct:title>CRIMINAL PROCEEDINGS OF ADOLESCENT OFFENDERS AND THEIR EFFECTIVENESS IN SOCIO-EDUCATIONAL MEASURES</dct:title>
+    <dct:title>[LOS PROCESOS PENALES DE ADOLESCENTES INFRACTORES Y SU EFECTIVIDAD EN LAS MEDIDAS SOCIO EDUCATIVAS]</dct:title>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2022</dct:issued>
+    <dct:isPartOf rdf:resource="http://universidad-ec.edu.ec/resource/value/Source_title/Universidad_y_Sociedad"/>
+    <bibo:volume rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</bibo:volume>
+    <bibo:issue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</bibo:issue>
+    <col:Page_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">236</col:Page_start>
+    <col:Page_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">245</col:Page_end>
+    <col:Page_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</col:Page_count>
+    <schema:citationCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</schema:citationCount>
+    <dct:abstract>In order to reintegrate adolescent offenders into society, socio-educational measures are applied. The objective of this study is, through the application of a special system, to be able to reintegrate adolescents into society, after committing an infraction. It seeks to determine the effectiveness of the application of socio-educational norms in adolescent offenders, which are established in the Code for Children and Adolescents. A mixed methodology was used in which qualitative and quantitative methods are combined, as well as the use of interviews and statistics that help us learn more about the subject. It is conclu-ded that it is necessary to apply social, family and psychological programs, with the purpose of monitoring young people and their families in the long term to verify the positive change. © 2022, University of Cienfuegos, Carlos Rafael Rodriguez. All rights reserved.</dct:abstract>
+    <dct:subject>adolescent offenders</dct:subject>
+    <dct:subject>reintegration</dct:subject>
+    <dct:subject>social programs</dct:subject>
+    <col:Document_Type rdf:resource="http://universidad-ec.edu.ec/resource/value/Document_Type/Article"/>
+    <col:Publication_Stage>Final</col:Publication_Stage>
+    <col:Source>Scopus</col:Source>
+    <col:EID>2-s2.0-85143215898</col:EID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://universidad-ec.edu.ec/person/59119436700">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name xml:lang="en">Velasquez M.R.</foaf:name>
+    <schema:identifier xml:lang="en">59119436700</schema:identifier>
+    <rdfs:label xml:lang="en">Velasquez_M_R</rdfs:label>
+    <schema:author rdf:resource="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192785231&amp;partnerID=40&amp;md5=e6cbd91cffe7ad7dcde6d95021aad0ff"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://universidad-ec.edu.ec/person/57347081000">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name xml:lang="en">Moncayo J.C.N.</foaf:name>
+    <schema:identifier xml:lang="en">57347081000</schema:identifier>
+    <rdfs:label xml:lang="en">Moncayo_J_C_N</rdfs:label>
+    <schema:author rdf:resource="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192785231&amp;partnerID=40&amp;md5=e6cbd91cffe7ad7dcde6d95021aad0ff"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192726020&amp;partnerID=40&amp;md5=4194ff40caa17a3e45ab55c6b2a11f6a">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
+    <dct:creator rdf:resource="http://universidad-ec.edu.ec/person/58028401100"/>
+    <dct:creator rdf:resource="http://universidad-ec.edu.ec/person/57834325900"/>
+    <dct:creator rdf:resource="http://universidad-ec.edu.ec/person/57221994670"/>
+    <dct:creator rdf:resource="http://universidad-ec.edu.ec/person/57351080000"/>
+    <col:Author_full_names>Palacios, Jessica Jasmin Cellán (58028401100)</col:Author_full_names>
+    <col:Author_full_names>Andrade, Julián Rodolfo Santillan (57834325900)</col:Author_full_names>
+    <col:Author_full_names>Maldonado, Paul Alejandro Centeno (57221994670)</col:Author_full_names>
+    <col:Author_full_names>Quemac, Rosa Evelyn Chuga (57351080000)</col:Author_full_names>
+    <col:Author_s_ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">58028401100</col:Author_s_ID>
+    <col:Author_s_ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57834325900</col:Author_s_ID>
+    <col:Author_s_ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57221994670</col:Author_s_ID>
+    <col:Author_s_ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57351080000</col:Author_s_ID>
+    <dct:title>THE MANAGEMENT OF INFORMATION IN LAW SINCE THE CONSTITUTIONALIZATION</dct:title>
+    <dct:title>[LA GESTIÓN DE INFORMACIÓN EN DERECHO DESDE LA CONSTITUCIONALIZCIÓN]</dct:title>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2023</dct:issued>
+    <dct:isPartOf rdf:resource="http://universidad-ec.edu.ec/resource/value/Source_title/Bibliotecas_Anales_de_Investigacion"/>
+    <bibo:volume rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</bibo:volume>
+    <bibo:issue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</bibo:issue>
+    <col:Page_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</col:Page_start>
+    <col:Page_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</col:Page_end>
+    <col:Page_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</col:Page_count>
+    <schema:citationCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</schema:citationCount>
+    <dct:abstract>Introduction: Information is a primary resource to manage in everyday life. Its access is a right of people with the necessary legal regulation. Ecuador in the Constitution of the Republic of Ecuador approved in 2008, regulated the issue as a right of citizens and specifies the characterizations of this good and the duties of public entities. Objective: to analyze the constitutional regulation of access to information in Ecuador taking into account the theoretical requirements in this matter. Scientific method: analytical deductive last that allowed to develop the corresponding analyzes and reach conclusions. In addition, the technique of analysis of legal documents was used when evaluating the corresponding provisions. Conclusions: The information resource is important to manage modern societies. Information has an inclusive, practical and unavoidably utilitarian use value. The information must be reliable, current, timely, contextualized and useful. The Constitution of the Republic of Ecuador approved in 2008 supports the vocation of the state to an inclusive culture to access this valuable resource. The Constitution gives a novel treatment to information as an essential resource for the management of natural persons in a general sense. © 2023 Biblioteca Nacional de Cuba Jose Marti. All rights reserved.</dct:abstract>
+    <dct:subject>Constitution of the Republic</dct:subject>
+    <dct:subject>Ecuador</dct:subject>
+    <dct:subject>Information</dct:subject>
+    <dct:subject>right of access</dct:subject>
+    <col:Document_Type rdf:resource="http://universidad-ec.edu.ec/resource/value/Document_Type/Article"/>
+    <col:Publication_Stage>Final</col:Publication_Stage>
+    <col:Source>Scopus</col:Source>
+    <col:EID>2-s2.0-85192726020</col:EID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://universidad-ec.edu.ec/person/57991432700">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name xml:lang="en">Alvarado Carrasco E.C.</foaf:name>
+    <schema:identifier xml:lang="en">57991432700</schema:identifier>
+    <rdfs:label xml:lang="en">Alvarado_Carrasco_E_C</rdfs:label>
+    <schema:author rdf:resource="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85143219221&amp;partnerID=40&amp;md5=d2c658c180fb95c5425cbfa94a4cee90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://universidad-ec.edu.ec/resource/value/Source_title/Universidad_y_Sociedad">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="en">Universidad y Sociedad</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://universidad-ec.edu.ec/resource/column/Source_title"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://universidad-ec.edu.ec/person/57221994670">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name xml:lang="en">Maldonado P.A.C.</foaf:name>
+    <schema:identifier xml:lang="en">57221994670</schema:identifier>
+    <rdfs:label xml:lang="en">Maldonado_P_A_C</rdfs:label>
+    <schema:author rdf:resource="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192726020&amp;partnerID=40&amp;md5=4194ff40caa17a3e45ab55c6b2a11f6a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://universidad-ec.edu.ec/person/57833551200">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name xml:lang="en">Solano Moreno A.F.</foaf:name>
+    <schema:identifier xml:lang="en">57833551200</schema:identifier>
+    <rdfs:label xml:lang="en">Solano_Moreno_A_F</rdfs:label>
+    <schema:author rdf:resource="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192851907&amp;partnerID=40&amp;md5=e217400bd0ed1c2172ed97787ca0f9f9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://universidad-ec.edu.ec/resource/column/Document_Type">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <rdfs:label xml:lang="en">Document Type</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://universidad-ec.edu.ec/person/57833239200">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name xml:lang="en">Limaico Mina J.R.</foaf:name>
+    <schema:identifier xml:lang="en">57833239200</schema:identifier>
+    <rdfs:label xml:lang="en">Limaico_Mina_J_R</rdfs:label>
+    <schema:author rdf:resource="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192851907&amp;partnerID=40&amp;md5=e217400bd0ed1c2172ed97787ca0f9f9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://universidad-ec.edu.ec/person/57900691300">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name xml:lang="en">Rey Siquilanda C.F.</foaf:name>
+    <schema:identifier xml:lang="en">57900691300</schema:identifier>
+    <rdfs:label xml:lang="en">Rey_Siquilanda_C_F</rdfs:label>
+    <schema:author rdf:resource="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192687408&amp;partnerID=40&amp;md5=7591b2a389a4776212beb611434758fe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://universidad-ec.edu.ec/person/57221993870">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name xml:lang="en">Zambrano J.C.A.</foaf:name>
+    <schema:identifier xml:lang="en">57221993870</schema:identifier>
+    <rdfs:label xml:lang="en">Zambrano_J_C_A</rdfs:label>
+    <schema:author rdf:resource="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192785231&amp;partnerID=40&amp;md5=e6cbd91cffe7ad7dcde6d95021aad0ff"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://universidad-ec.edu.ec/person/58002164700">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name xml:lang="en">Garcés Córdova F.A.</foaf:name>
+    <schema:identifier xml:lang="en">58002164700</schema:identifier>
+    <rdfs:label xml:lang="en">Garces_Cordova_F_A</rdfs:label>
+    <schema:author rdf:resource="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192687408&amp;partnerID=40&amp;md5=7591b2a389a4776212beb611434758fe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://universidad-ec.edu.ec/person/57221976123">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name xml:lang="en">Velastegui Cordova M.E.</foaf:name>
+    <schema:identifier xml:lang="en">57221976123</schema:identifier>
+    <rdfs:label xml:lang="en">Velastegui_Cordova_M_E</rdfs:label>
+    <schema:author rdf:resource="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192687408&amp;partnerID=40&amp;md5=7591b2a389a4776212beb611434758fe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://universidad-ec.edu.ec/person/57351080000">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name xml:lang="en">Chuga Quemac R.E.</foaf:name>
+    <foaf:name xml:lang="en">Quemac R.E.C.</foaf:name>
+    <schema:identifier xml:lang="en">57351080000</schema:identifier>
+    <rdfs:label xml:lang="en">Chuga_Quemac_R_E</rdfs:label>
+    <rdfs:label xml:lang="en">Quemac_R_E_C</rdfs:label>
+    <schema:author rdf:resource="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192851907&amp;partnerID=40&amp;md5=e217400bd0ed1c2172ed97787ca0f9f9"/>
+    <schema:author rdf:resource="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192726020&amp;partnerID=40&amp;md5=4194ff40caa17a3e45ab55c6b2a11f6a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://universidad-ec.edu.ec/resource/value/Document_Type/Review">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="en">Review</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://universidad-ec.edu.ec/resource/column/Document_Type"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://universidad-ec.edu.ec/person/57991246300">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name xml:lang="en">Fernández Andrade L.G.</foaf:name>
+    <schema:identifier xml:lang="en">57991246300</schema:identifier>
+    <rdfs:label xml:lang="en">Fernandez_Andrade_L_G</rdfs:label>
+    <schema:author rdf:resource="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85143219221&amp;partnerID=40&amp;md5=d2c658c180fb95c5425cbfa94a4cee90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://universidad-ec.edu.ec/person/57990876000">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name xml:lang="en">Bustamante Vera A.A.</foaf:name>
+    <schema:identifier xml:lang="en">57990876000</schema:identifier>
+    <rdfs:label xml:lang="en">Bustamante_Vera_A_A</rdfs:label>
+    <schema:author rdf:resource="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85143215898&amp;partnerID=40&amp;md5=133d1c4cbdb14507c61694c458fec0b3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://universidad-ec.edu.ec/person/57222626724">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name xml:lang="en">Cabrera Grand J.R.</foaf:name>
+    <schema:identifier xml:lang="en">57222626724</schema:identifier>
+    <rdfs:label xml:lang="en">Cabrera_Grand_J_R</rdfs:label>
+    <schema:author rdf:resource="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85143215898&amp;partnerID=40&amp;md5=133d1c4cbdb14507c61694c458fec0b3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://universidad-ec.edu.ec/person/57969452700">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name xml:lang="en">del pozo Carrasco J.G.</foaf:name>
+    <schema:identifier xml:lang="en">57969452700</schema:identifier>
+    <rdfs:label xml:lang="en">del_pozo_Carrasco_J_G</rdfs:label>
+    <schema:author rdf:resource="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192785231&amp;partnerID=40&amp;md5=e6cbd91cffe7ad7dcde6d95021aad0ff"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://universidad-ec.edu.ec/person/57901499800">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name xml:lang="en">Villacres Duche O.F.</foaf:name>
+    <schema:identifier xml:lang="en">57901499800</schema:identifier>
+    <rdfs:label xml:lang="en">Villacres_Duche_O_F</rdfs:label>
+    <schema:author rdf:resource="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85217735164&amp;partnerID=40&amp;md5=2ffb4fc69b01e68dd135cd92d489fbec"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://universidad-ec.edu.ec/resource/column/Source_title">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <rdfs:label xml:lang="en">Source title</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>
